@@ -50,13 +50,8 @@
   translation: 'Error 404 - Page Not Found'
 
 - id: in_category
-  translation: "Category: "
+  translation: In categories
 
-- id: words
-  translation: words
-
-- id: minutes
-  translation: minutes
 
 - id: latest_posts
   translation: Latest Posts
@@ -71,7 +66,7 @@
   translation: Next
 
 - id: author_by
-  translation: "Author: "
+  translation: By
 
 - id: related
   translation: Related Posts
